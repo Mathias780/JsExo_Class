@@ -1,0 +1,20 @@
+body {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+
+button {
+    color: #000000;
+    font-size: 2rem;
+    border: 2px solid #000000;
+    padding-inline: 2rem;
+    padding-block: 0.5rem;
+    border-radius: 5px;
+}
+
